@@ -14,6 +14,7 @@ Requires:
 - droid-config-can-flashing
 - droid-config-can-bluez4
 - droid-hal-version-can
+- droid-hal-can-detritus
 
 # Hybris packages
 - libhybris-libEGL
