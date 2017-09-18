@@ -2,6 +2,6 @@ CPUCHECK_STRING="Qualcomm Technologies, Inc MSM8953"
 
 PART_1="boot"
 
-PART_REAL_1="mmcblk0p21"
+PART_REAL_1="mmcblk0p30"
 
 PART_I="1" 
